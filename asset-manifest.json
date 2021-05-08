@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/geek-info/static/css/main.93aa6388.chunk.css",
+    "main.js": "/geek-info/static/js/main.c9e411aa.chunk.js",
+    "main.js.map": "/geek-info/static/js/main.c9e411aa.chunk.js.map",
+    "runtime-main.js": "/geek-info/static/js/runtime-main.a2bfa907.js",
+    "runtime-main.js.map": "/geek-info/static/js/runtime-main.a2bfa907.js.map",
+    "static/js/2.54c7c87d.chunk.js": "/geek-info/static/js/2.54c7c87d.chunk.js",
+    "static/js/2.54c7c87d.chunk.js.map": "/geek-info/static/js/2.54c7c87d.chunk.js.map",
+    "index.html": "/geek-info/index.html",
+    "static/css/main.93aa6388.chunk.css.map": "/geek-info/static/css/main.93aa6388.chunk.css.map",
+    "static/js/2.54c7c87d.chunk.js.LICENSE.txt": "/geek-info/static/js/2.54c7c87d.chunk.js.LICENSE.txt",
+    "static/media/836 [Converted].431102b9.svg": "/geek-info/static/media/836 [Converted].431102b9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2bfa907.js",
+    "static/js/2.54c7c87d.chunk.js",
+    "static/css/main.93aa6388.chunk.css",
+    "static/js/main.c9e411aa.chunk.js"
+  ]
+}
