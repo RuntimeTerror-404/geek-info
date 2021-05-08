@@ -30,7 +30,10 @@ function App() {
           </ul>
         </nav>
         <header>
-          <h1>React Redux Hooks</h1>
+          <h1>NEWS FOR YOU📰</h1>
+          {/* <h2>Deepak Mohit Priyank Pushkar</h2> */}
+          {/* <h3>Ham chaar chutiye phir se S laayenge😁🤣😆</h3> */}
+
           <img src={image} />
         </header>
 

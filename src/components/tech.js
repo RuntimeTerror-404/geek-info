@@ -24,7 +24,8 @@ const Tech = () => {
                         return (
                             <div className="post" key={x.title}> 
                                 <img src={x.urlToImage} />
-                                <h2>{x.title}</h2>
+                                {/* <h2>{x.title}</h2> */}
+                                <a class="btn btn-primary" href={x.url} role="button">{x.title}</a>
                                 <p>{x.description}</p>
                             </div>
                         )
